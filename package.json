@@ -36,8 +36,8 @@
     "fuse.js": "^7.0.0",
     "lodash.throttle": "^4.1.1",
     "preact": "^10.21.0",
-    "react": "npm:@preact/compat",
-    "react-dom": "npm:@preact/compat"
+    "react": "18.3.0",
+    "react-dom": "18.3.0"
   },
   "devDependencies": {
     "@types/chrome": "^0.0.268",
